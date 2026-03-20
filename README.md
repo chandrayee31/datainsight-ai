@@ -15,13 +15,6 @@ The project demonstrates how traditional data analytics pipelines can be combine
 
 ---
 
-## 🎬 Demo
-
-<p align="center">
-  <img src="readme_docs/datainsight_ai_GIF.gif" width="800"/>
-</p>
-
----
 
 ## 🏗️ Architecture Diagram
 ```bash
@@ -110,6 +103,13 @@ datainsight-ai/
 ├── requirements.txt
 └── tests
 ```
+
+---
+## 🎬 Demo
+
+<p align="center">
+  <img src="readme_docs/datainsight_ai_GIF.gif" width="800"/>
+</p>
 
 ---
 
