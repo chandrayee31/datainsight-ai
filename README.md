@@ -1,10 +1,10 @@
-# 🚀 DataInsight AI
+#  DataInsight AI
 
 ### AI-Powered Automated Data Analytics & Insight Engine
 
 ---
 
-## 📌 Overview
+## Overview
 
 DataInsight AI is an AI-powered analytics service that automatically analyzes tabular datasets and generates business insights using automated exploratory data analysis (EDA) and a locally hosted large language model via Ollama.
 
@@ -16,7 +16,7 @@ The project demonstrates how traditional data analytics pipelines can be combine
 ---
 
 
-## 🏗️ Architecture Diagram
+## Architecture Diagram
 ```bash
 CSV Upload
    ↓
@@ -40,7 +40,7 @@ JSON API Response
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 
 - Automated data validation and preprocessing
@@ -62,7 +62,7 @@ JSON API Response
 
 
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 datainsight-ai/
@@ -105,7 +105,7 @@ datainsight-ai/
 ```
 
 ---
-## 🎬 Demo
+##  Demo
 
 <p align="center">
   <img src="readme_docs/datainsight_ai_GIF.gif" width="800"/>
@@ -158,7 +158,7 @@ Response Example:
 
 - The API returns both the raw summary and generated insights.
 
-## ⚙️ Run Locally
+##  Run Locally
 
 ```bash
 pip install -r requirements.txt
@@ -175,7 +175,7 @@ docker run -p 8000:8000 datainsight-ai
 ```
 
 ---
-## 🚀 Future Improvements
+##  Future Improvements
 
 - 📊 Excel dataset support  
 - 📈 Visualization dashboards (Plotly / Streamlit)  
@@ -183,7 +183,7 @@ docker run -p 8000:8000 datainsight-ai
 - 🤖 Anomaly detection using Machine Learning  
 - 🔍 RAG-based analytics assistant  
 
-## 👩‍💻 Author
+##  Author
 
 Chandrayee Kumar  
 Python Developer | AI/ML Engineer
